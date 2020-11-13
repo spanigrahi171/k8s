@@ -27,3 +27,4 @@ spec:
                 configMapKeyRef:
                  name: pages-config-map
                  key: PAGE_CONTENT    
+
